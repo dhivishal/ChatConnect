@@ -26,5 +26,6 @@ Google Services JSON: Download google-services.json from Firebase and place it i
 2. Sync the project with Gradle files.
 3. Configure Firebase Authentication and Realtime Database / Firestore as needed in the Firebase Console.
 4. Add google-services.json to the project.
+   
 **Contact**
 Any questions, feedback, or suggestions, please reach out: **sabaribala.aids22@mamcet.com**
